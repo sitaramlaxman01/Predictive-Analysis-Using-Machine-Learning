@@ -38,3 +38,7 @@ Checked dataset structure and summary statistics
 **Model Evaluation**
    Evaluated performance using accuracy and other metrics
    Analyzed results and model effectiveness
+
+**OUTPUT :**
+
+https://github.com/sitaramlaxman01/Predictive-Analysis-Using-Machine-Learning/issues/1#issuecomment-3875758202
